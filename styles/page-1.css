@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(255, 224, 140);
+  font-family: 'Karla', sans-serif;
+}
+
+h2 {
+  font-size: 34px;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  font-size: 20px;
+}
+
+.navigation-div {
+  border-bottom: 2px solid black;
+}
+
+.navigation-bar {
+  width: 600px;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.header-div {
+  display: flex;
+  justify-content: center;
+}
+
+.header-text {
+  margin-top: 40px;
+  font-size: 50px;
+}
+
+.paw-image {
+  width: 50px;
+  object-fit: contain;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.teddy-image-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.teddy-page-1 {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.info-div {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.info-sections {
+  width: 400px;
+}
