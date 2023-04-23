@@ -21,12 +21,10 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-left: 30px;
 }
 
 .image-parent {
-  width: 200px;
-  margin-left: 300px;
+  margin-top: 70px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 80px;
